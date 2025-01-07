@@ -1,1 +1,1 @@
-# asteroids
+This practice project is a re-creation of the game Asteroids
